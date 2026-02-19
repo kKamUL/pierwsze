@@ -1,1 +1,3 @@
 #Moje pierwsze repo
+
+lalalala
